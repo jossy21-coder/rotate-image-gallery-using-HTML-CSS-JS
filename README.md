@@ -68,6 +68,14 @@ Simply open `index.html` in your browser.
 ```
 
 ```
+![Desktop View](https://github.com/jossy21-coder/rotate-image-gallery-using-HTML-CSS-JS/blob/main/Capture.JPG)
+
+---
+
+```
+
+```
+![Desktop View](https://github.com/jossy21-coder/rotate-image-gallery-using-HTML-CSS-JS/blob/main/Capture4.JPG)
 
 ---
 
