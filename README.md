@@ -46,7 +46,7 @@ rotate-image-gallery/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/rotate-image-gallery.git
+git clone https://github.com/jossy21-coder/rotate-image-gallery.git
 ```
 
 2. **Open the project folder**
